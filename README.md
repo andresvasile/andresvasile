@@ -39,11 +39,3 @@
 ###
 
 <p align="left">I'm always exploring new tools and technologies – if it's code, I'm curious!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/925925099622241332/62BE9B35F8A39CE4BA16630C7485C460331F2715/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-</div>
-
-###
